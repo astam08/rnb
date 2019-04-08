@@ -16,7 +16,7 @@ client.on('ready', () => {
 
 		interval: 1000,
 
-		warningMessage: "WARNING@here",
+		warningMessage: "PERINGATAN SPAM!!! SERVER INI DILENGKAPI ANTI SPAM !! SANKSI BANNED PERMANENT @here •TEAM PROTECT• ",
 
 		maxDuplicatesWarning: 5,
 
