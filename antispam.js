@@ -2,7 +2,6 @@ const Discord = require("discord.js");
 const client = new Discord.Client()
 const antispam = require("discord-anti-spam");
 const settings = require("./your_settings.json");
-const ready = require("./commands/ready.js");
 
 
 
