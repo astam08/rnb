@@ -1,7 +1,7 @@
 {
     "token": "NTYyNTI5MzkzNjAwMTAyNDAx.XKrphg.TPlLtoLay4tvXlsfxKEnOAbXWsg",
     "prefix": "/",
-    "rainbowdelay": 200,
+    "rainbowdelay": 500,
     "rainbowcommand": "rainbow",
     "rainbowstop": "stop",
     "rainbowrole": [
